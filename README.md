@@ -1,1 +1,1 @@
-# Ping-pong-Algo
+Ping pong proto
